@@ -15,5 +15,6 @@
 <br>
 <p>
 <h1>My Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=xCatBear&theme=radical&show_icons=true" width="%100" height="150px" alt="stats" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efenatuyo&show_icons=true&locale=en&layout=compact" alt="xcatbear" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=efenatuyo&show_icons=true&locale=en" alt="xcatbear" /></p>
 </p>
