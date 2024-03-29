@@ -15,6 +15,7 @@
 <br>
 <p>
 <h1>My Stats</h1>
+<p>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xcatbear&show_icons=true&locale=en" alt="xcatbear" />
 </p>
 <p>
