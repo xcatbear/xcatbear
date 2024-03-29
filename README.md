@@ -15,6 +15,6 @@
 <br>
 <p>
 <h1>My Stats</h1>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efenatuyo&show_icons=true&locale=en&layout=compact" alt="xcatbear" /></p>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=efenatuyo&show_icons=true&locale=en" alt="xcatbear" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xcatbear&show_icons=true&locale=en" alt="xcatbear" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcatbear&show_icons=true&locale=en&layout=compact" alt="xcatbear" /></p>
 </p>
