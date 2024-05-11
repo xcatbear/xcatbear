@@ -1,23 +1,24 @@
-<h1>Welcome to My Github Account!</h1>
+![Header](./header.png)
 
-![counter](https://enad3k7ikdaobce.m.pipedream.net)
+<h1 align="center">xcatbear</h1>
+<a href="https://github.com/xcatbear"></a>
 
-
-<p>
-  <a href="https://discord.com/users/842018749011198003" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/xCatBear" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<p align="center">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=xcatbear&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/xcatbear?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/xcatbear?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
-<h1>I Work With;</h1>
-<a href="https://nodejs.org/en/" target"blank_"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"></a>
-<a href="https://www.python.org/" target"blank_"><img src="https://img.shields.io/badge/-python-4B77BE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B77BE"></a>
-<a href="https://html.com/" target"blank_"><img src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target"blank_"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <br>
-<p>
-<h1>My Stats</h1>
-<p>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xcatbear&show_icons=true&locale=en" alt="xcatbear" />
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs"/>
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcatbear&show_icons=true&locale=en&layout=compact" alt="xcatbear" />
+
+https://t.me/skiddos
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=xcatbear&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
+
+![Footer](./footer.png)
