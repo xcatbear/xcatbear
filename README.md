@@ -13,8 +13,6 @@
     <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs"/>
 </p>
 
-https://t.me/skiddos
-
 <br>
 
 <p align="center">
